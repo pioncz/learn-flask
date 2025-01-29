@@ -5,14 +5,19 @@ import json
 import requests
 import helpers
 
-with open('data/TierList.json', encoding="utf-8") as json_file:
+with open('static/TierList.json', encoding="utf-8") as json_file:
   tier_list_data = json.load(json_file)
 
-with open('data/HeroTypes.json', encoding="utf-8") as json_file:
+with open('static/HeroTypes.json', encoding="utf-8") as json_file:
   hero_types_data = json.load(json_file)
 
-with open('data/Champions.json', encoding="utf-8") as json_file:
+with open('static/Champions.json', encoding="utf-8") as json_file:
   champions_data = json.load(json_file)
+
+global skills_data
+with open('static/Skills.json', encoding="utf-8") as json_file:
+  skills_data = json.load(json_file)
+skills_ids = list(map(lambda x: x['id'], skills_data))
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///test.db'
@@ -41,6 +46,35 @@ def serve_json():
     "status": "success"
   }
   return jsonify(data)
+
+@app.route('/skills', methods=['GET'])
+def searchSkills():
+  query = request.args.get('query')
+
+  if query == None:
+    return "No query provided!"
+  
+  champions = helpers.findChampionsInList(query, champions_data)
+  if len(champions) == 0:
+    return "No results for \"" + str(query) + "\""
+  
+  champion = champions[0]
+  new_skills = list(filter(lambda x: x not in skills_ids, champion['skills'].split(',')))
+
+  if (len(new_skills) == 0):
+    return "All skills already exist"
+
+  new_skills_response = requests.get("https://hellhades.com/wp-json/hh-api/v3/skills?skills=" + ",".join(new_skills)).json()
+
+  global skills_data
+  skills_data = skills_data + new_skills_response
+
+  with open('static/Skills.json', "w") as jsonFile:
+      json.dump(skills_data, jsonFile)
+
+  return new_skills
+
+
 
 @app.route('/search', methods=['GET'])
 def search():
@@ -73,15 +107,47 @@ def search():
   if hero_type == None:
     return "Hero Type not found!"
   
-  helpers.fetchImageAndSave('https://hellhades.com/wp-content/plugins/rsl-assets/assets/champbyIds/' + model_id + '.png', 'Avatars/' + results[0]['champion'].replace(" ", "") + '.png')
+  champion_name = results[0]['champion']
+  file_name = champion_name.replace(" ", "") + ".png"
+  file_path = 'static/Avatars/'
+  helpers.fetchImageAndSave(
+    'https://hellhades.com/wp-content/plugins/rsl-assets/assets/champbyIds/' + str(model_id) + '.png', 
+    'static/Avatars/',
+    file_name
+  )
 
-  champion = results[0]
+  champion = {}
+  champion["id"] = results[0]["id"]
+  champion["champion"] = results[0]["champion"]
   champion["rarity"] = hero_form["rarity"]
   champion["skills"] = hero_form["skills"]
-  champion["faction"] = hero_type["faction"]
+  champion["faction"] = hero_type["fraction"]
   champion["modalId"] = model_id
+  champion["image"] = file_path + file_name
+  champions_data.append(champion)
+  with open('static/Champions.json', "w") as jsonFile:
+    json.dump(champions_data, jsonFile)
 
-  return "Found \"" + results[0]['champion'] + "\"<br>HeroId: " + str(hero_id) + "<br><br>Forms: " + json.dumps(forms_list) + "<br><br>Hero Form: " + json.dumps(hero_form) + "<br><br>Image:<br><img src=\"" + str(model_id) + ".png\" /><br><br>Champion: " + json.dumps(champion)
+  new_skills = list(filter(lambda x: x not in skills_ids, champion['skills'].split(',')))
+
+  if (len(new_skills) == 0):
+    return "Found \"" + results[0]['champion'] + "\"<br>No new skills<br>HeroId: " + str(hero_id) + "<br><br>Forms: " + json.dumps(forms_list) + "<br><br>Hero Form: " + json.dumps(hero_form) + "<br><br>Image:<br><img src=\"" + str(model_id) + ".png\" /><br><br>Champion: " + json.dumps(champion)
+
+  new_skills_response = requests.get("https://hellhades.com/wp-json/hh-api/v3/skills?skills=" + ",".join(new_skills)).json()
+
+  new_skills_data = skills_data + new_skills_response
+
+  with open('static/Skills.json', "w") as jsonFile:
+      json.dump(new_skills_data, jsonFile)
+
+  return "Found \"" + results[0]['champion'] + "\"<br>New skills:" + ",".join(new_skills) + "<br>HeroId: " + str(hero_id) + "<br><br>Forms: " + json.dumps(forms_list) + "<br><br>Hero Form: " + json.dumps(hero_form) + "<br><br>Image:<br><img src=\"" + str(model_id) + ".png\" /><br><br>Champion: " + json.dumps(champion)
+
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type, Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET, POST, PATCH, DELETE, OPTIONS')
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 if __name__ == '__main__':
-  app.run(port=3000, debug=True)
+  app.run(port=3001, debug=True)

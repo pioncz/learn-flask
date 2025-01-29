@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 2,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 3,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 4"
+  },
+  {
+    "id": 4,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 5,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 3"
+  },
+  {
+    "id": 6,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 6"
+  },
+  {
+    "id": 7,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 8,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 9,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 6"
+  },
+  {
+    "id": 10,
+    "difficulty": "Easy",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 11,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 3"
+  },
+  {
+    "id": 12,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 4"
+  },
+  {
+    "id": 13,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 14,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 3"
+  },
+  {
+    "id": 15,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 6"
+  },
+  {
+    "id": 16,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 17,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 3"
+  },
+  {
+    "id": 18,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 19,
+    "difficulty": "Easy",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 20,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 21,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "\"R. Gem"
+  },
+  {
+    "id": 22,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 23,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 3"
+  },
+  {
+    "id": 24,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 25,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 26,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 3"
+  },
+  {
+    "id": 27,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 6"
+  },
+  {
+    "id": 28,
+    "difficulty": "Easy",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 29,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 30,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 31,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 32,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Gem, 1* Basalt x 1"
+  },
+  {
+    "id": 33,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 34,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 35,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 36,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 37,
+    "difficulty": "Normal",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 38,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 39,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 40,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 41,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 42,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 43,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 44,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 45,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 46,
+    "difficulty": "Normal",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 47,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 48,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 49,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 50,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 51,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Gem, E. Gem, 1* Basalt x 1"
+  },
+  {
+    "id": 52,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 53,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 54,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 55,
+    "difficulty": "Normal",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 56,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 57,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 58,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 7"
+  },
+  {
+    "id": 59,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Gem, 1* Basalt x 1"
+  },
+  {
+    "id": 60,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 61,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 62,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 63,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 64,
+    "difficulty": "Hard",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 65,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 66,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 67,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 7"
+  },
+  {
+    "id": 68,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 69,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 70,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 71,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 72,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 73,
+    "difficulty": "Hard",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 74,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 4"
+  },
+  {
+    "id": 75,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 76,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 5"
+  },
+  {
+    "id": 77,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 78,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Gem, E. Gem, 1* Basalt x 1"
+  },
+  {
+    "id": 79,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 80,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 81,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 82,
+    "difficulty": "Hard",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 83,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 6"
+  },
+  {
+    "id": 84,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 4"
+  },
+  {
+    "id": 85,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 8"
+  },
+  {
+    "id": 86,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Gem, E. Gem, 1* Basalt x 1"
+  },
+  {
+    "id": 87,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 88,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 11"
+  },
+  {
+    "id": 89,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 90,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 91,
+    "difficulty": "Brutal",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 7"
+  },
+  {
+    "id": 92,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 93,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 10"
+  },
+  {
+    "id": 94,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 5"
+  },
+  {
+    "id": 95,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 96,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 97,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 11"
+  },
+  {
+    "id": 98,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 99,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 100,
+    "difficulty": "Brutal",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 12"
+  },
+  {
+    "id": 101,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 102,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 103,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 5"
+  },
+  {
+    "id": 104,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 105,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Gem, E. Gem, 2* Basalt x 1"
+  },
+  {
+    "id": 106,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 7"
+  },
+  {
+    "id": 107,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 5"
+  },
+  {
+    "id": 108,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 109,
+    "difficulty": "Brutal",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 12"
+  },
+  {
+    "id": 110,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Gem, E. Gem, 1* Basalt x 1"
+  },
+  {
+    "id": 111,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "L. Ocular Mass x 4"
+  },
+  {
+    "id": 112,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 3"
+  },
+  {
+    "id": 113,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 114,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 8"
+  },
+  {
+    "id": 115,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 13"
+  },
+  {
+    "id": 116,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 117,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 11"
+  },
+  {
+    "id": 118,
+    "difficulty": "Nightmare",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 17"
+  },
+  {
+    "id": 119,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "E. Ocular Mass x 4"
+  },
+  {
+    "id": 120,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "M. Ocular Mass x 2"
+  },
+  {
+    "id": 121,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 3"
+  },
+  {
+    "id": 122,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 123,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 8"
+  },
+  {
+    "id": 124,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 6"
+  },
+  {
+    "id": 125,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 126,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 11"
+  },
+  {
+    "id": 127,
+    "difficulty": "Nightmare",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 12"
+  },
+  {
+    "id": 128,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "E. Ocular Mass x 5"
+  },
+  {
+    "id": 129,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "L. Ocular Mass x 4"
+  },
+  {
+    "id": 130,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 2"
+  },
+  {
+    "id": 131,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 132,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "R. Gem, L. Gem, 2* Basalt x 1"
+  },
+  {
+    "id": 133,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "R. Ocular Mass x 17"
+  },
+  {
+    "id": 134,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 7"
+  },
+  {
+    "id": 135,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 12"
+  },
+  {
+    "id": 136,
+    "difficulty": "Nightmare",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 6"
+  },
+  {
+    "id": 137,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 138,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "R. Ocular Mass x 15"
+  },
+  {
+    "id": 139,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "E. Ocular Mass x 14"
+  },
+  {
+    "id": 140,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 141,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "M. Ocular Mass x 3"
+  },
+  {
+    "id": 142,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 5"
+  },
+  {
+    "id": 143,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 144,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "E. Gem, L. Gem, 2* Basalt x 1"
+  },
+  {
+    "id": 145,
+    "difficulty": "UltraNightmare",
+    "form": "Ram",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 8"
+  },
+  {
+    "id": 146,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 147,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 9"
+  },
+  {
+    "id": 148,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 8"
+  },
+  {
+    "id": 149,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "E. Ocular Mass x 7"
+  },
+  {
+    "id": 150,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "L. Ocular Mass x 6"
+  },
+  {
+    "id": 151,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 5"
+  },
+  {
+    "id": 152,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Gem, 2* Basalt x 1"
+  },
+  {
+    "id": 153,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 10"
+  },
+  {
+    "id": 154,
+    "difficulty": "UltraNightmare",
+    "form": "Lion",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 4"
+  },
+  {
+    "id": 155,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 9"
+  },
+  {
+    "id": 156,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "rewards": "L. Ocular Mass x 6"
+  },
+  {
+    "id": 157,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 8"
+  },
+  {
+    "id": 158,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "rewards": "E. Ocular Mass x 6"
+  },
+  {
+    "id": 159,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "rewards": "M. Ocular Mass x 3"
+  },
+  {
+    "id": 160,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "rewards": "M. Ocular Mass x 5"
+  },
+  {
+    "id": 161,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "rewards": "R. Ocular Mass x 8"
+  },
+  {
+    "id": 162,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "rewards": "E. Ocular Mass x 9"
+  },
+  {
+    "id": 163,
+    "difficulty": "UltraNightmare",
+    "form": "Viper",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "rewards": "L. Ocular Mass x 8"
+  }
+]

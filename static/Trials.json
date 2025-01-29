@@ -1,0 +1,360 @@
+[
+  {
+    "id": 1,
+    "form": "Ram",
+    "description": "Damage the Chimera while it is under a [Fear] or [True Fear] debuff. Only counts damage from skills.",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 1,
+        "type": "every",
+        "abilities": ["Fear"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "form": "Ram",
+    "description": "Damage the Chimera on all 5 of its turns in this Form using skills that scale based on enemy MAX HP, as well as [Poison], [HP Burn], and [Smite] debuffs.",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 2,
+        "type": "any",
+        "abilities": ["Poison", "HP Burn", "Smite", "Max HP"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "form": "Ram",
+    "description": "Deplete the Chimera’s Duel Bar within 5 turns.",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "conditions": []
+  },
+  {
+    "id": 4,
+    "form": "Ram",
+    "description": "Place 2/3/4/5/6/7 unique debuffs on the Chimera within 5 of its turns while your Champions are under [Increase ACC] buffs.",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 3,
+        "type": "every",
+        "abilities": ["Increase Accuracy"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "form": "Ram",
+    "description": "Damage the Chimera while it is under a [Weaken] debuff and your Champions are under [Increase C.RATE] or [Increase C.DMG] buffs. Only counts damage from skills.",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 4,
+        "type": "every",
+        "abilities": ["Weaken"]
+      },
+      {
+        "id": 5,
+        "type": "any",
+        "abilities": ["Increase Critical Rate", "Increase Critical Damage"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "form": "Ram",
+    "description": "Damage the Chimera with a single skill while it is under [Weaken] and [Decrease DEF] debuffs. Will not count damage from counterattacks and skills that scale based on enemy MAX HP.",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 6,
+        "type": "every",
+        "abilities": ["Weaken", "Decrease Defense"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "form": "Ram",
+    "description": "Damage the Chimera within 3 of its turns while it is under a [Decrease DEF] debuff and your Champions are under [Perfect Veil] buffs.",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 7,
+        "type": "every",
+        "abilities": ["Decrease Defense"]
+      },
+      {
+        "id": 8,
+        "type": "every",
+        "abilities": ["Veil", "Perfect Veil"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "form": "Ram",
+    "description": "Place 2/3/4/5/6 unique debuffs on the Chimera and 2/3/4/5/6 unique buffs on your Champions within 3/2 of the Chimera’s turns.",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "conditions": []
+  },
+  {
+    "id": 9,
+    "form": "Ram",
+    "description": "Block 3/4/5/6/7/8 [Stun] debuffs using [Block Debuffs], [Intercept] or [Stone Skin] buffs within 5 of the Chimera’s turns.",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 9,
+        "type": "any",
+        "abilities": ["Block Debuffs", "Intercept", "Stone Skin"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "form": "Lion",
+    "description": "Damage the Chimera while it is under 1/2/3/4/5/6 or more debuffs and your Champions are under [Increase DEF] buffs. Will not count damage from counterattacks.",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 10,
+        "type": "any",
+        "abilities": ["Increase Defence"]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "form": "Lion",
+    "description": "Absorb damage using [Shield] buffs. Will not count surplus damage.",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 11,
+        "type": "any",
+        "abilities": ["Shield"]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "form": "Lion",
+    "description": "Block damage using [Block Damage] or [Unkillable] buffs.",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 12,
+        "type": "any",
+        "abilities": ["Block Damage", "Unkillable"]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "form": "Lion",
+    "description": "Damage the Chimera within 3 of its turns while your Champions are under 5 unique buffs. Will not count damage from skills that scale based on enemy MAX HP.",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "conditions": []
+  },
+  {
+    "id": 14,
+    "form": "Lion",
+    "description": "Damage the Chimera while it is under a [Decrease SPD] and [Decrease DEF] debuffs. Only counts damage from skills.",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 14,
+        "type": "every",
+        "abilities": ["Decrease Speed", "Decrease Defense"]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "form": "Lion",
+    "description": "Damage the Chimera with counterattacks and Ally Attack skills.",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 15,
+        "type": "any",
+        "abilities": ["Counterattack", "Ally Attack"]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "form": "Lion",
+    "description": "Damage the Chimera while it is under a [Leech] debuff.",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 16,
+        "type": "every",
+        "abilities": ["Leech"]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "form": "Lion",
+    "description": "Place 6/8/10 debuffs on the Chimera within 5/4/3/2 of its turns. One of the debuffs must be a [Decrease RES] debuff.",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 17,
+        "type": "every",
+        "abilities": ["Decrease Resistance"]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "form": "Lion",
+    "description": "Damage the Chimera using [Reflect Damage] buffs, [Pain Link] debuffs, or passive Reflect Damage effects.",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 18,
+        "type": "any",
+        "abilities": ["Reflect Damage", "Pain Link"]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "form": "Viper",
+    "description": "Damage the Chimera while it is under a [Block Active Skills] debuff. Only counts damage from skills.",
+    "trialNumber": 1,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 19,
+        "type": "every",
+        "abilities": ["Block Active Skills"]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "form": "Viper",
+    "description": "Damage the Chimera within 2 of its turns while it is under [Block Buffs] and [HP Burn] debuffs and has no active buffs.",
+    "trialNumber": 1,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 20,
+        "type": "every",
+        "abilities": ["Block Buffs", "HP Burn"]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "form": "Viper",
+    "description": "Damage the Chimera while it is under 5/6/7/8/9/10 or more debuffs. It must not be under a [Block Active Skills] debuff.",
+    "trialNumber": 1,
+    "trialStage": "Hard",
+    "conditions": []
+  },
+  {
+    "id": 22,
+    "form": "Viper",
+    "description": "Damage the Chimera with [Poison] debuffs while it is also under a [Poison Sensitivity] debuff.",
+    "trialNumber": 2,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 22,
+        "type": "every",
+        "abilities": ["Poison", "Poison Sensitivity"]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "form": "Viper",
+    "description": "Keep all of your Champions alive for 3 Chimera turns.",
+    "trialNumber": 2,
+    "trialStage": "Normal",
+    "conditions": []
+  },
+  {
+    "id": 24,
+    "form": "Viper",
+    "description": "Successfully revive 1 ally, or all allies when reviving multiple Champions.",
+    "trialNumber": 2,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 24,
+        "type": "every",
+        "abilities": ["Revive"]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "form": "Viper",
+    "description": "Damage the Chimera within 3 of its turns while it is under a [Decrease ATK] debuff, and your Champions are under [Increase SPD] buffs.",
+    "trialNumber": 3,
+    "trialStage": "Easy",
+    "conditions": [
+      {
+        "id": 25,
+        "type": "every",
+        "abilities": ["Decrease Attack", "Increase Speed"]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "form": "Viper",
+    "description": "Damage the Chimera with a single skill while your Champions are under [Increase ATK] and [Block Debuffs] buffs. Will not count damage from counterattacks.",
+    "trialNumber": 3,
+    "trialStage": "Normal",
+    "conditions": [
+      {
+        "id": 26,
+        "type": "every",
+        "abilities": ["Increase Attack", "Block Debuffs"]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "form": "Viper",
+    "description": "Resist 10/12/14/16/18/20 debuffs while the Chimera is under a [Decrease ACC] debuff and your Champions are under [Increase RES] buffs.",
+    "trialNumber": 3,
+    "trialStage": "Hard",
+    "conditions": [
+      {
+        "id": 27,
+        "type": "every",
+        "abilities": ["Decrease Accuracy", "Increase Resistance"]
+      }
+    ]
+  }
+]
